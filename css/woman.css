@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Italiana&family=Jacques+Francois&family=Kaisei+Tokumin&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #8A94CC;
+}
+#topo {
+    background-color: #d9d9d9;
+    width: 100%;
+    height: 101px;
+}
+#bars {
+    width: 46px;
+    height: 47px;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+#logo {
+    width: 214px;
+    height: 73px;
+    display: flex;
+    margin-left: 7%;
+    margin-top: -3.5%;
+}
+#pesquisa {
+    display: flex;
+    margin-left: 25%;
+    margin-top: -3.4%;
+}
+#lupa {
+    width: 34px;
+    height: 42px;
+    display: flex;
+    
+}
+#barra {
+    width: 465px;
+    height: 52px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#man {
+    transform: rotate(90deg);
+    font-size: 19px;
+    background-color: #43C7FF;
+    font-family: Inter, 'sans serif';
+    width: 114px;
+    height: 58.28px;
+    color: white;
+    margin-left: 60%;
+    margin-top: -3.2%;
+}
+#woman {
+    transform: rotate(90deg);
+    font-size: 19px;
+    background-color: #F02BAD;
+    font-family: Inter, 'sans serif';
+    width: 114px;
+    height: 58.28px;
+    color: white;
+    margin-left: 65%;
+    margin-top: -3.6%;
+}
+#login {
+    background-color: #071854;
+    font-family: Inter, 'sans serif';
+    font-size: 24px;
+    color: white;
+    width: 136px;
+    height: 52px;   
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px; 
+    margin-left: 80%;
+    margin-top: -3.4%;
+}
+#sacola {
+    width: 64px;
+    height: 64px;
+    margin-left: 92%;
+    margin-top: -20%;
+    margin-bottom: 1%;
+}
+#titulo {
+    font-family: Italiana, 'sans serif';
+    font-size: 93px;
+    color: #071854;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+#mulher {
+    width: 432px;
+    height: 834px;
+    margin-left: 35%;
+}
+#bolinhas {
+    margin-left: 45%;
+}
+input {
+    margin-left: 2%;
+}
+#msgpeças {
+    font-family: kaisei tokumin, 'sans serif';
+    font-size: 68px;
+    color: #071854;
+    text-align: center;
+}
+#peçaleft {
+    width: 708px;
+    height: 688px;
+    background-color: #A0AAE5;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#pecaleft {
+    width: 359px;
+    height: 688px;
+}
+#txt {
+    margin-top: -90%;
+}
+.sobrepeça {
+    font-family: kaisei tokumin, 'sans serif';
+    font-size: 32px;
+    margin-left: 55%;
+}
+#mais {
+    width: 283px;
+    height: 62px;
+    background-color: #071854;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    color: white;
+    font-family: kaisei tokumin, 'sans serif';
+    font-size: 40px;
+    margin-left: 55%;
+    margin-top: 2%;
+}
+#quadradinhos {
+    float: right;
+}
+.card1 {
+    width: 190px;
+    height: 308px;
+    background-color: #A0AAE5;
+    margin-top: -360%;
+    margin-left: -280%;
+}
+#pç01 {
+    font-family: Kaisei Tokumin, 'sans serif';
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.crit {
+    font-family: Kaisei Tokumin, 'sans serif';
+    font-size: 16px;
+    text-align: center;
+    color: black;
+}
+.q01 {
+    width: 190px;
+    height: 210px;
+}
+.q02 {
+    width: 290px;
+    height: 210px;
+    margin-left: -25%; 
+}
+.card2 {
+    width: 190px;
+    height: 308px;
+    background-color: #A0AAE5;
+    margin-top: -160%;
+    margin-left: -50%;
+}
+#pç02 {
+    font-family: Kaisei Tokumin, 'sans serif';
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.card3 {
+    width: 190px;
+    height: 308px;
+    background-color: #A0AAE5;
+    margin-left: -280%;
+    margin-top: 20%;
+}
+#pç03 {
+    font-family: Kaisei Tokumin, 'sans serif';
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.card4 {
+    width: 190px;
+    height: 308px;
+    background-color: #A0AAE5;
+    margin-top: -160%;
+    margin-left: -50%;
+}
+#pç04 {
+    font-family: Kaisei Tokumin, 'sans serif';
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+#msgacessorios {
+    font-family: kaisei tokumin, 'sans serif';
+    font-size: 68px;
+    color: #071854;
+    text-align: center;
+}
+footer {
+    background-color: #071854;
+    width: 100%;
+    height: 117px;
+}
+#info {
+    width: 84px;
+    height: 84px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+#copy {
+    float: right;
+    margin-right: 33%;
+    margin-top: 2%;
+}

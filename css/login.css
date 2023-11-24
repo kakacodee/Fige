@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Italiana&family=Jacques+Francois&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #8A94CC;
+}
+#topo {
+    background-color: #071854;
+    height: 1.4375rem;
+}
+#fige {
+    background-color: #2D47A6;
+    width: 480px;
+    height: 200px;
+    color: white;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-left: 35%;
+    margin-top: 8%;
+}
+#title {
+    font-size: 150px;
+    margin-left: 6.5%;
+    display: flex;
+    font-family: 'Jacques Francois', sans-serif;
+}
+#cadastro {
+    background-color: #96A7E1;
+    width: 38%;
+    height: 29.9375rem;
+    margin-left: 33rem;
+    margin-top: 5%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.lblemail {
+    font-size: 41px;
+    margin-left: 10%;
+    margin-top: 20%;
+    font-family: 'Italiana', sans-serif;
+}
+.inpemail {
+    display: flex;
+    margin-left: 5%;
+    width: 550px;
+    height: 51px;
+    border-radius: 30px;
+}
+#senha {
+    margin-top: 2rem;
+}
+.lblsenha {
+    font-size: 41px;
+    margin-left: 10%;
+    margin-top: 20%;
+    font-family: 'Italiana', sans-serif;
+}
+.inpsenha {
+    display: flex;
+    margin-left: 5%;
+    width: 550px;
+    height: 51px;
+    border-radius: 30px;
+}
+#termos {
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+}
+.caixa {
+    width: 41px;
+    height: 45px;
+    margin-left: 4rem;
+} 
+#lbltermos {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    margin-top: -8%;
+    margin-left: 25%;
+    text-decoration: underline;
+    color: #2D47A6;
+}
+#cad {
+    width: 14.375rem;
+    height: 5rem;
+    margin-left: 12rem;
+    border-radius: 25px;
+    margin-top: 4rem;
+}
+footer {
+    background-color: #071854;
+    margin-top: 12.8%;
+    height: 3.625rem;
+}

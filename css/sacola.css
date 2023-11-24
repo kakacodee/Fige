@@ -1,0 +1,36 @@
+@import url(estilo.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Italiana&family=Jacques+Francois&family=Kaisei+Tokumin&display=swap');
+#voltar {
+    width: 136px;
+    height: 52px;
+    color:white;
+    background-color: #071854;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#ttl {
+    font-family: Kaisei Tokumin, 'sans serif';
+    color: #071854;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.cards {
+    background-color: #93A8F3;
+    width: 750px;
+    height: 420px;
+    border-radius: 30px; 
+    margin-left: 10%;
+    margin-top: 5%;  
+}
+.vl {
+    margin-left: 60%;
+    margin-top: -30%;
+    font-family: Italiana, 'sans serif';
+}
+.quant {
+    font-family: Italiana, 'sans serif';
+    margin-left: 60%;
+}
